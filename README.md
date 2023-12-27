@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at SMIT 
 - 📫 How to reach me sharjeelkamal2007@gmail.com
 <h1>Follow</h1>
-<p>To follow my github Search aiwithsharjeel</p>
+<p>To follow my github Search <b>"aiwithsharjeel"</b></p>
 
 <!---
 aiwithsharjeel/aiwithsharjeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
