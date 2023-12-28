@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @aiwithsharjeel
+<H1>HI👋, I AM SHARJEEL</H1>
+<BR>
 - 👀 I’m interested in Data Scientist and Machine Learning
 - 🌱 I’m currently learning at SMIT 
 - 📫 How to reach me sharjeelkamal2007@gmail.com
